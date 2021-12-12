@@ -5,3 +5,7 @@ File execution order:
 1. pre_processing.ipynb
 2. colunm_creator.ipynb
 3. graphics_generation.ipynb
+
+Members:
+- Kevin Andrews - kams
+- Johnny Herbert - jhmn
